@@ -1,0 +1,9 @@
+Max Flow: 14
+
+Process Time(ms): 0
+
+Augmented Paths: 
+0 -> 1 -> 4
+0 -> 2 -> 4
+0 -> 1 -> 3 -> 4
+0 -> 2 -> 3 -> 4
